@@ -1,7 +1,7 @@
-name: Creative Area Web Dev
+name: Creative Area
 favicon: null
-layout_spectrum: 0.6218018347863108
-typography_spectrum: 0.18228749767877162
+layout_spectrum: 0.2803
+typography_spectrum: 0.57789
 title: Web Developper Studio
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7064148408826441
+    - '#ffffff'
+    - '#009ccb'
+    - '#e40072'
+    - '#94d5e9'
+    - '#f184ba'
+  brandStrength: 0.9375
   lightness: 0.5438381303101778
-  saturation: 0.3273969953879714
-  rhythmicContrast: 0.03780665318481624
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
