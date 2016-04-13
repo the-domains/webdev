@@ -1,0 +1,28 @@
+name: Creative Area Web Dev
+favicon: null
+layout_spectrum: 0.6218018347863108
+typography_spectrum: 0.18228749767877162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7064148408826441
+  lightness: 0.5438381303101778
+  saturation: 0.3273969953879714
+  rhythmicContrast: 0.03780665318481624
+purpose: []
