@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Web Developper Studio]]></title>
+        <description><![CDATA[Web Developper Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 09:12:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative Area is testing The Grid!]]></title>
+            <description><![CDATA[<article><h1>Creative Area is testing The Grid!</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86b52bac55d7220351723b732d664798d885dffe.png"></article>]]></description>
+            <link>undefinedcreative-area-is-testing-the-grid/index.html</link>
+            <guid isPermaLink="false">30c3c2c6-d0ad-4670-a3b0-5be2662bb7dd</guid>
+            <pubDate>Wed, 13 Apr 2016 09:12:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
